@@ -10,4 +10,5 @@
 
 //SECTIONS
 // @use'path to scss file'; 
-@use './sections/navbar.scss';
+@use './sections/_navbar.scss';
+@use './sections/intro';
