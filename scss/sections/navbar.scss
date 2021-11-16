@@ -1,0 +1,10 @@
+//OVERRIDES
+@use '../custom' as *;
+
+.navbar .navbar-nav .nav-link {
+    color: $light;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: $primary;
+  }
