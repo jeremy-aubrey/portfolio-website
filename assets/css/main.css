@@ -1,30 +1,68 @@
 /* CUSTOM STYLES */
 
+/* custom fonts */
+
+@font-face {
+  font-family: MavenPro-Regular;
+  src: url(../fonts/MavenPro-Regular.ttf);
+}
+
+@font-face {
+  font-family: MavenPro-SemiBold;
+  src: url(../fonts/MavenPro-SemiBold.ttf);
+}
+
+/* nav and header styles */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+a {
+  font-family: MavenPro-Regular;
+}
+
+.navbar a {
+  font-size: 1.3rem;
+}
+
+#brand {
+  font-size: 1.4rem;
+}
+
+.navbar a:hover,
+.navbar-nav a:hover {
+  color: red !important;
+}
+
 /* project styles */
+
 .project {
-    color: whitesmoke;
-    background-color: rgb(47, 44, 51);
+  color: whitesmoke;
+  background-color: rgb(47, 44, 51);
 }
 
 .project:hover {
-    border-color: rgb(0, 255, 170);
-    background-color: rgb(59, 57, 63);
+  border-color: rgb(0, 255, 170);
+  background-color: rgb(59, 57, 63);
 }
 
 .project a:hover {
-    color: black;
-    background-color: rgb(0, 255, 170);
+  color: black;
+  background-color: rgb(0, 255, 170);
 }
 
 /* tools styles */
 
 .tool {
-    font-size: 1.3rem;
-    color:whitesmoke;
-    background-color: rgb(47, 44, 51);
+  font-family: MavenPro-Regular;
+  font-size: 1.3rem;
+  color: whitesmoke;
+  background-color: rgb(47, 44, 51);
 }
 
 .tool:hover {
-    border: 2px solid rgb(0, 255, 170);
-    background-color: rgb(59, 57, 63);
+  border: 2px solid rgb(0, 255, 170);
+  background-color: rgb(59, 57, 63);
 }
