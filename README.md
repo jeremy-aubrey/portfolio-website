@@ -1,6 +1,7 @@
 # Portfolio Web Site
 
-This site is built using just HTML, CSS, Bootstrap 5, and JavaScript. 
+This simple static site is built using just HTML, CSS, Bootstrap 5, and JavaScript.
+* Feel free to discard the docs directory as it merely holds the screen shot below. 
 
 ![Screenshot](/docs/images/website_screen_shot.png)
 
