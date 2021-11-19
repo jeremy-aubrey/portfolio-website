@@ -6,7 +6,7 @@ Feel free to download it and use it as a landing page.
 
 or
 
-* ( Use it to display your own screen shot by including the line below in your README.md)
+* ( Use it to display your own screen shot by including the line below in your README.md )
 
 \!\[Screenshot\](/path to image in your project/your_image.png)
 
