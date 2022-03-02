@@ -8,7 +8,7 @@ or
 
 * ( Use it to display your own screen shot by including the line below in your README.md )
 
-\!\[Screenshot\](/path to image in your project/your_image.png)
+\!\[Screenshot\]("/path to image in your project/your_image.png")
 
 ![Screenshot](/docs/images/website_screen_shot.png)
 
