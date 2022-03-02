@@ -1,4 +1,4 @@
-# Portfolio Web Site
+# Simple Static Website
 
 This simple static site is built using just HTML, CSS, Bootstrap 5, and JavaScript.
 Feel free to download it and use it as a landing page.
